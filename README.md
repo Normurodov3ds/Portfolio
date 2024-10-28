@@ -14,3 +14,4 @@
    <img  src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white">
  </a>
 </p>
+GoTest is one of the biggest educational platform to study in Uzbekistan. You can solve multiple-choice questions from more than 8 subjects and more than 100 000 questions. Also, you can get full results of your work. Furthermore, you can take mock exams and prepare for the actual exam. There are even more to get from GoTest.
